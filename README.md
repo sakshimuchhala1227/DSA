@@ -1,6 +1,6 @@
 # DSA
 ### The goal of this repository is to:
 
-### Practice and improve my problem-solving skills in DSA.
-### Maintain a collection of DSA implementations for reference.
-### Document my learning journey in mastering DSA concepts.
+#####  1.Practice and improve my problem-solving skills in DSA.
+#####  2.Maintain a collection of DSA implementations for reference.
+#####  3.Document my learning journey in mastering DSA concepts.
